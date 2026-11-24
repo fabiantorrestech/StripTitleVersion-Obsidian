@@ -1,0 +1,9 @@
+{
+  "id": "strip-title-version",
+  "name": "Strip Title Version",
+  "version": "1.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Removes the \" - Obsidian <version>\" suffix from the window title, or formats it your way ({note}, {vault}, {version}, {app}). Requires Settings → Appearance → Window frame style = Obsidian frame to see it in the in-app title bar.",
+  "author": "Fabian Torres",
+  "isDesktopOnly": true
+}

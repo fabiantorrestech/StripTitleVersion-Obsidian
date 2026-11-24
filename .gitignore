@@ -1,0 +1,5 @@
+# Agent handoff notes (local only)
+handoffContext/
+
+# Per-vault plugin settings written by Obsidian
+data.json
